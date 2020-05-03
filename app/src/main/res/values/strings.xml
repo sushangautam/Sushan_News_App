@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sushan News App</string>
+    <string name="interneterror">INTERNET CONNECTION NOT FOUND!\nTry Again\nAfter Checking your Internet Connection</string>
+    <string name="contenterror">No News Article Found!\nTry Again\nReopen the app after some time !</string>
+</resources>
